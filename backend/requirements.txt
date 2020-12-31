@@ -5,7 +5,7 @@ Django==3.1.1
 django-cors-headers==3.5.0
 djangorestframework==3.12.1
 djangorestframework-simplejwt==4.4.0
-isort==5.6.1
+isort==5.7.0
 lazy-object-proxy==1.5.1
 mccabe==0.6.1
 pycodestyle==2.6.0
