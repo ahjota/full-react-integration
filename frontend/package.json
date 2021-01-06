@@ -15,7 +15,7 @@
     "@material-ui/icons": "^4.9.1",
     "@types/next": "^9.0.0",
     "@types/styled-components": "^5.1.2",
-    "axios": "^0.20.0",
+    "axios": "^0.21.1",
     "babel-plugin-styled-components": "^1.11.1",
     "date-fns": "^2.16.1",
     "gray-matter": "^4.0.2",
